@@ -1,4 +1,4 @@
-ransport Operations Dashboard
+Transport Operations Dashboard
 Project Overview
 
 The Transport Operations Dashboard is a Power BI solution designed to analyze and optimize transportation performance. It provides insights into vehicle trips, driver performance, route efficiency, and distance coverage, helping businesses improve operational efficiency and reduce costs.
